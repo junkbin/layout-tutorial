@@ -12,7 +12,7 @@
 ````
 
 ````
-    ng build --prod --base-href "https://junking.github.io/layout-tutorial/"
+    ng build --prod --base-href "https://junkbin.github.io/layout-tutorial/"
 ````
 
 ````
