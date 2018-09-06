@@ -1,0 +1,13 @@
+.container{
+    background: beige;
+    height: 300px;
+}
+
+.child{
+    background: darkorange;
+    width: 200px;
+    height: 100px;
+    color:ghostwhite;
+    border-radius: 5px;
+    margin-top:2px;
+}

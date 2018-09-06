@@ -1,3 +1,5 @@
-<p>
-  page7 works!
-</p>
+<div class="container" fxLayout="row wrap" fxLayoutAlign="start start" fxLayoutGap="5px ">
+  <div class="child" *ngFor="let item of data |  keyvalue" fxLayout fxLayoutAlign="center center" >
+    {{item.key}}
+  </div>
+</div>
