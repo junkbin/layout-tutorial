@@ -13,7 +13,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
   declarations: [
     AppComponent,
     appComponents,
-    SafePipe
+    SafePipe,
   ],
   imports: [
     BrowserModule,
