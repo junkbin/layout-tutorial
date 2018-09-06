@@ -1,5 +1,50 @@
+
+<div class="container-2" fxLayout="row wrap" fxLayoutAlign="start start" fxLayoutGap="2px">
+  <div class="child-2" fxFlex>
+    Lorem ipsum dolor sit amet.
+  </div>
+
+  <div fxFlex="40" class="child-2">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  </div>
+
+  
+  <div class="child-2" fxFlex="30">
+    Lorem ipsum dolor sit.
+  </div>
+
+  <div class="child-2" fxFlex="5">
+    Lorem, ipsum dolor.
+  </div>
+
+  <div class="child-2" fxFlex="25">
+      Lorem ipsum dolor sit.
+    </div>
+
+  <div class="child-2" fxFlex>
+      Lorem ipsum dolor sit amet.
+  </div>
+</div>
+
+<h1>3</h1>
+<div class="container-2" fxLayout="row wrap" fxLayoutAlign="center center" fxLayoutGap="5px">
+    <div class="child-2" fxFlex="20%"   *ngFor="let item of data |  keyvalue" fxLayout fxLayoutAlign="center center" >
+      {{item.key}}
+    </div>
+</div>
+
+<h1>2</h1>
+<div class="container-1" fxLayout="row wrap" fxLayoutAlign="center center" fxLayoutGap="5px">
+    <div class="child" *ngFor="let item of data |  keyvalue" fxLayout fxLayoutAlign="center center" >
+      {{item.key}}
+    </div>
+</div>
+
+<h1>1</h1>
 <div class="container" fxLayout="row wrap" fxLayoutAlign="start start" fxLayoutGap="5px ">
   <div class="child" *ngFor="let item of data |  keyvalue" fxLayout fxLayoutAlign="center center" >
     {{item.key}}
   </div>
 </div>
+
+

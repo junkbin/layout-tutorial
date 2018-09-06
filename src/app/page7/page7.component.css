@@ -3,11 +3,28 @@
     height: 300px;
 }
 
+.container-1{
+    background: lavender;
+    height: 400px;
+}
+
+.container-2{
+    background: khaki;
+    height: 400px;
+}
+
 .child{
     background: darkorange;
     width: 200px;
     height: 100px;
     color:ghostwhite;
+    border-radius: 5px;
+    margin-top:2px;
+}
+
+.child-2 {
+    background: plum;
+    height: 100px;
     border-radius: 5px;
     margin-top:2px;
 }
