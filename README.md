@@ -18,6 +18,6 @@
 ````
 
 ## Route Page update. 
-> /page9 flex-layout
+> /page9 flex-layout; reponsive api.
 > /page8 flex with @media query revision. raw css flex 
 > /page7 flex-layout/cdk module introduced. 

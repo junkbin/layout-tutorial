@@ -1,0 +1,16 @@
+.container{
+    height: 100vh;
+    background: mediumslateblue;
+    color:white;
+    font-weight: bold;
+    font-size: x-large;
+    padding: 2px;
+    text-align: justify;
+}
+
+.child {
+    padding: 5px;
+    border-radius: 5px;
+    background: tomato;
+    min-height: 100px;
+}
