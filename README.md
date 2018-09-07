@@ -18,4 +18,5 @@
 ````
 
 ## Route Page update. 
-> /page7 `@media` query with flex. 
+> /page8 flex with @media query revision. 
+> /page7 flex-layout/cdk module introduced. 
