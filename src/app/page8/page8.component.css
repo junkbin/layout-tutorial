@@ -12,3 +12,29 @@
     justify-content: center;
     align-items: center;
 }
+
+@media screen and (max-width: 1200px){
+    .container {
+        background:rosybrown;
+    }
+}
+
+@media screen and (max-width: 900px){
+    .container {
+        background: chocolate;
+    }
+}
+
+
+@media screen and (max-width: 700px){
+    .container {
+        background: royalblue;
+    }
+}
+
+
+@media screen and (max-width: 500px){
+    .container {
+        background: gold;
+    }
+}
