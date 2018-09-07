@@ -16,3 +16,6 @@
     ngh --dir=dist/[PROJECTNAME]
     ngh --dir=dist/LayoutTutorial
 ````
+
+## Route Page update. 
+> /page7 `@media` query with flex. 
