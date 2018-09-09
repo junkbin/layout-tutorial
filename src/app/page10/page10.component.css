@@ -1,0 +1,19 @@
+div{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: large;
+
+    text-align: justify;
+    padding: 5px;
+
+    color:white;
+    border-radius: 5px;
+}
+
+div.container :nth-child(even){
+    background: gold;
+}
+
+div.container :nth-child(odd){
+    background: silver;
+}
