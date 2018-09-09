@@ -18,6 +18,8 @@
 ````
 
 ## Route Page update. 
+> /page11 flex-layout; responsive + center align; good till now. 
+> /page10 flex-layout; responsive + center align
 > /page9 flex-layout; reponsive api.
 > /page8 flex with @media query revision. raw css flex 
 > /page7 flex-layout/cdk module introduced. 
