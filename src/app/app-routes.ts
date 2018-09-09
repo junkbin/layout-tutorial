@@ -10,6 +10,7 @@ import { Page8Component } from './page8/page8.component';
 import { Page9Component } from './page9/page9.component';
 import { Page10Component } from './page10/page10.component';
 import { Page11Component } from './page11/page11.component';
+import { Page12Component } from './page12/page12.component';
 
 
 export const appRoutes: Routes = [
@@ -24,11 +25,12 @@ export const appRoutes: Routes = [
     {path: 'page9', component: Page9Component},
     {path: 'page10', component: Page10Component},
     {path: 'page11', component: Page11Component},
+    {path: 'page12', component: Page12Component},
     {path: '', redirectTo: '/page1', pathMatch: 'full'}
 ];
 
 export const appComponents = [
                     Page1Component, Page2Component, Page3Component, Page4Component,
                     Page5Component, Page6Component, Page7Component, Page8Component,
-                    Page9Component, Page10Component, Page11Component
+                    Page9Component, Page10Component, Page11Component, Page12Component
                 ];

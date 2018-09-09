@@ -8,6 +8,7 @@ import { AppComponent } from './app.component';
 import { appRoutes, appComponents} from './app-routes';
 import { SafePipe } from './common/safe.pipe';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
 @NgModule({
   declarations: [
     AppComponent,

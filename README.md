@@ -18,6 +18,7 @@
 ````
 
 ## Route Page update. 
+> /page12 flex-layout; responsive;
 > /page11 flex-layout; responsive + center align; good till now. 
 > /page10 flex-layout; responsive + center align
 > /page9 flex-layout; reponsive api.
